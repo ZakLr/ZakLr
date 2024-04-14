@@ -24,19 +24,19 @@
  <a href="https://zaklr.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="zaklr" />
  </a>
- <a href="https://linkedin.com/in/zaklr" target="_blank">
+ <a href="https://linkedin.com/in/zakaria-lourghi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zaklr"/>
  </a>
  <!-- <a href="https://dev.to/zaklr" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="zaklr" />
  </a> -->
- <a href="https://twitter.com/zaklr" target="_blank">
+ <!-- <a href="https://twitter.com/zaklr" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/zaklr" target="_blank">
+ </a> -->
+ <a href="https://instagram.com/zaki._lr" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="zaklr" />
  </a> 
- <a href="https://facebook.com/zaklr" target="_blank">
+ <a href="https://facebook.com/zaki.lr.5" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="zaklr"  />
   </a> 
 </p>
