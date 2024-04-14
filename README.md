@@ -12,8 +12,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Zakaria+LOURGHI">「 Google Me 」</a>
-    <br>
+    
     「 I am a passionate Fullstack web developer and Machine Learning Enthusiast 」
     <br>
     <br>
