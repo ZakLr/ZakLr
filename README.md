@@ -43,11 +43,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Passionate about building scalable web applications and cutting-edge AI solutions<br/><br/>
- ❤️ &emsp; Love crafting fullstack projects with modern frameworks and optimizing ML models<br/><br/>
- 📚 &emsp; Computer Engineering student at Ecole Supérieure en Informatique (Expected June 2027)<br/><br/>
- 📧 &emsp; Reach me anytime: z.lourghi@esi-sba.dz<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/zaklr/zaklr/issues)
+ ✌️   Passionate about building scalable web applications and cutting-edge AI solutions<br/><br/>
+ ❤️   Love crafting fullstack projects with modern frameworks and optimizing ML models<br/><br/>
+ 📚   Computer Engineering student at Ecole Supérieure en Informatique (Expected June 2027)<br/><br/>
+ 📧   Reach me anytime: z.lourghi@esi-sba.dz<br/><br/>
+ 💬   Ask me about anything [here](https://github.com/zaklr/zaklr/issues)
 
 </p>
 
@@ -71,10 +71,14 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F61?style=for-the-badge&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -85,6 +89,10 @@
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FD581F?style=for-the-badge&logo=huggingface&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-0C4B33?style=for-the-badge&logoColor=white)
 
 ## Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -93,17 +101,18 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=white)
 
 <br/>
 
 # Projects
 
 - **E-commerce Platform for Healthy Food**  
-  Built a scalable fullstack e-commerce platform using Next.js, React, and Tailwind CSS for the frontend, with Node.js and MongoDB for the backend. Implemented user authentication, product filtering, and payment integration, achieving a 30% faster load time with server-side rendering.  
+  Built a scalable fullstack e-commerce platform using Next.js, React, and Tailwind CSS for the frontend, with FastAPI and MongoDB for the backend. Implemented user authentication, product filtering, and payment integration, achieving a 30% faster load time with server-side rendering.  
   [GitHub Repository](https://github.com/ZakLr/healthy-food-ecommerce)
 
 - **Tourism Agency Website**  
-  Developed a responsive tourism agency website using React, Tailwind CSS, and Express.js. Integrated dynamic booking forms and real-time availability checks, improving user engagement by 40%. Deployed with Docker for seamless scaling.  
+  Developed a responsive tourism agency website using React, Tailwind CSS, and FastAPI. Integrated dynamic booking forms and real-time availability checks with Gradio interface, improving user engagement by 40%. Deployed with Docker for seamless scaling.  
   [GitHub Repository](https://github.com/ZakLr/tourism-agency)
 
 - **Sentiment Analyzer (Transformer from Scratch)**  
@@ -111,11 +120,11 @@
   [GitHub Repository](https://github.com/ZakLr/sentiment-analyzer)
 
 - **Emergency Sound Classifier**  
-  Built a classifier for self-driving car sensors to detect emergency vehicle sounds (ambulances, fire trucks) using a custom dataset of 10,000+ samples. Achieved 97% accuracy with TensorFlow and deployed with real-time inference capabilities.  
+  Built a classifier for self-driving car sensors to detect emergency vehicle sounds using a custom dataset of 10,000+ samples. Achieved 97% accuracy with TensorFlow and deployed with real-time inference capabilities.  
   [GitHub Repository](https://github.com/ZakLr/emergency-sound-classifier)
 
 - **CSV File Insight Generator (LLM-powered)**  
-  Created a LangChain-based tool for analyzing CSV data via natural language queries, enabling non-technical users to gain insights 80% faster. Deployed with Gradio and Docker for accessibility.  
+  Created a LangChain and LlamaIndex-based tool for analyzing CSV data via natural language queries, using Hugging Face embeddings and ChromaDB for vector storage. Enabled non-technical users to gain insights 80% faster. Deployed with Gradio and Docker.  
   [GitHub Repository](https://github.com/ZakLr/csv-insight-generator)
 
 - **Real-time Hand Sign Detector and Translator**  
@@ -123,12 +132,16 @@
   [GitHub Repository](https://github.com/ZakLr/hand-sign-translator)
 
 - **Genetic Algorithm for Hyperparameter Optimization**  
-  Conducted research on optimizing neural network hyperparameters using genetic algorithms, outperforming grid and random search in efficiency. Presented as a challenge at AiQuest'25 Datathon.  
+  Conducted research on optimizing neural network hyperparameters using genetic algorithms with CatBoost, outperforming grid and random search. Presented as a challenge at AiQuest'25 Datathon.  
   [GitHub Repository](https://github.com/ZakLr/genetic-algorithm-optimization)
 
 - **Grid World Agent (Deep Q-Learning)**  
-  Built a Deep Q-Learning agent for grid navigation, optimizing pathfinding and obstacle avoidance using PyTorch. Simulated shortest-path calculations for survival tasks.  
+  Built a Deep Q-Learning agent for grid navigation using PyTorch, optimizing pathfinding and obstacle avoidance. Simulated shortest-path calculations for survival tasks.  
   [GitHub Repository](https://github.com/ZakLr/grid-world-agent)
+
+- **RAG-based Compliance Checker for SATIM**  
+  Developed an Agentic AI system using LlamaIndex and Hugging Face embeddings for regulatory compliance checking. Implemented a RAG pipeline with ChromaDB for document retrieval and FastAPI for API endpoints, streamlining compliance workflows.  
+  [GitHub Repository](https://github.com/ZakLr/satim-compliance-checker)
 
 <br/>
 
@@ -151,7 +164,7 @@
   [LinkedIn Post](https://linkedin.com/in/zakaria-lourghi)
 
 - **10k+ Views on Technical Articles**  
-  Published in-depth articles on transformers, generative AI, and real-time ML on LinkedIn and Medium.  
+  Published in-depth articles on transformers, generative AI, RAG systems, and real-time ML on LinkedIn and Medium.  
   [Medium Articles](https://medium.com/@zaklr) | [LinkedIn Articles](https://linkedin.com/in/zakaria-lourghi)
 
 <br/>
